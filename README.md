@@ -1,11 +1,12 @@
-# Hi, I'm Kehinde 👋
+# Hi, I'm Kehinde 
 
 ## AI Engineer | Full-Stack Developer
 
 I build intelligent applications using cutting-edge AI technologies.
 
-### 🚀 Featured Projects
+###  Featured Projects
 
+- **[E-Commerce Customer Churn Prediction](https://github.com/Kehinde291c/ecommerce-customer-analytics)**
 - **[ResuMatch](https://github.com/Kehinde291c/resumatch)** — AI-powered resume optimizer ([Live Demo](https://kehinde291c.github.io/resumatch))
 - **[MoodLens](https://github.com/Kehinde291c/moodlens)** — Sentiment intelligence analyzer ([Live Demo](https://kehinde291c.github.io/moodlens))
 - **[SmartDeck](https://github.com/Kehinde291c/smartdeck)** — AI flashcard generator ([Live Demo](https://kehinde291c.github.io/smartdeck))
