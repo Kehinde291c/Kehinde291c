@@ -1,6 +1,6 @@
 # Hi, I'm Kehinde 
 
-## AI Engineer | Full-Stack Developer
+## AI Engineer |  Certified Data Analyst
 
 I build intelligent applications using cutting-edge AI technologies.
 
