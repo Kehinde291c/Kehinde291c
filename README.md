@@ -17,7 +17,7 @@ I build intelligent applications and translate complex data into clear, actionab
 
 ## Data Analytics Projects
 
-- [NBA Playoffs 2026 — End-to-End Analytics](https://github.com/Kehinde291c/nba-playoffs-2026) — Excel · SQL · Tableau analytics on the 2026 NBA Playoffs ([Live Demo](https://kehinde291c.github.io/nba-playoffs-2026/))
+- [NBA Playoffs 2026 — End-to-End Analytics](https://github.com/Kehinde291c/nba-playoffs-2026) — Excel · SQL · Tableau analytics on the 2026 NBA Playoffs ))
 - [E-Commerce Customer Churn Prediction](https://github.com/Kehinde291c/ecommerce-customer-analytics) — Predictive modeling on customer behavior data
 ---
 
